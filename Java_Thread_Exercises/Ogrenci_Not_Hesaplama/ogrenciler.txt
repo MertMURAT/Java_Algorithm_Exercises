@@ -1,0 +1,4 @@
+Ahmet Yılmaz:80,90,100
+Mehmet Can:70,80,90
+Ayşe Güneş:60,70,80
+Zeynep Demir:85,95,75
